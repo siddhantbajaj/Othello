@@ -1,3 +1,5 @@
 # Othello
 Implementation of Othello/Reversei game in Java.
-![alt text](https://drive.google.com/open?id=0B2LpfoQifKwCWG1aSk5FQXhGQ1E)
+
+
+![capture](https://user-images.githubusercontent.com/17237680/28887046-4e7120ae-77d9-11e7-9425-d0d2f6bdcc59.PNG)
